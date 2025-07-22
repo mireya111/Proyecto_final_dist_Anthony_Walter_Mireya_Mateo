@@ -8,7 +8,7 @@
 
 ## 📁 Recursos Adicionales
 **Carpeta con imágenes de arquitectura (maestro, esclavo e información de red):** 
-[Descargar carpeta comprimida](https://drive.google.com/file/d/1G4p2pGtqj-gY9DBwr1jhsKc0A0cSnW5W/view?usp=sharing)
+[Descargar carpeta comprimida](https://drive.google.com/drive/folders/1MYdR0tc9M1fw_DJ1snCbJU6ssYctyLk7?usp=sharing)
 
 ## 🚀 ¿Qué hace este proyecto?
 
